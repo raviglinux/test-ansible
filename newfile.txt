@@ -1,2 +1,2 @@
 Hello
-Cheking Git hook
+Cheking Git hook with Jenkins...
